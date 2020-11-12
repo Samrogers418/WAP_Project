@@ -11,17 +11,16 @@
 
 </sript>
 
-<div class="ui header ">
-    <div class="item">
-        <div>
-            <i class="power off icon ">
-                <div>
-                    Logout
-                </div>
-            </i>
-        </div>
-    </div>
+<div class="ui pointing menu">
+       <div class="right menu">
 
+        <h1 >
+           iTraveller
+        </h1>
+        <a class="item">
+            <i class="power off icon"></i>
+        </a>
+    </div>
 </div>
 
 <div class="ui pointing menu">
