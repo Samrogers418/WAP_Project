@@ -14,6 +14,7 @@ public class Main {
 
         int n = 100000 + new Random().nextInt(900000);
         System.out.println(n);
+        System.out.println(n);
 
 
     }
