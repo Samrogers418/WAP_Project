@@ -1,0 +1,14 @@
+ul {
+    list-style-type: horizontal;
+    margin: 0;
+    padding: 0;
+}
+#eyob{
+    height:200px;
+    width:40%;
+    margin:auto;
+}
+
+.lout{
+    float:right;
+}
