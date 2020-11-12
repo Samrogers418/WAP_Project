@@ -7,6 +7,10 @@ public class Address {
     private String street;
     private int zipcode;
 
+
+    public static void main(String[] args) {
+        System.out.println("Welcome to Git");
+    }
     public Address(String state, String city, String street, int zipcode) {
         this.state = state;
         this.city = city;
